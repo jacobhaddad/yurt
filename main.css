@@ -1,0 +1,72 @@
+#social-buttons button {
+   color: white;
+ }
+ .btn-twitter {
+   background-color: #00acee;
+   border-color: #009ad5;
+ }
+
+ .btn-facebook {
+   background-color: #4868ac;
+   border-color: #314776;
+ }
+
+ .btn-pinterest {
+   background-color: #b62f26;
+   border-color: #b62f26;
+ }
+
+ .navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+}
+
+.jumbotron label {
+  color: white;
+
+}
+.jumbotron img {
+  margin-top: 50px;
+}
+
+
+.jumbotron {
+   min-height: 800px;
+   background-image: url('images/background.jpg');
+   background-size: cover;
+   background-attachment: fixed;
+ }
+
+ .lead {
+ 	text-align: center;
+ }
+
+ .jumbotron h1 {
+  font-family: 'Vast Shadow', cursive;
+  color: rgba(32, 35, 41,0.8);
+}
+
+
+ #mission {
+ 	background-color: rgba(32,35,41,.9);
+ 	color: #ddd;
+ 	padding-bottom: 50px;
+
+ }
+
+ h2{
+ 	text-align: center;
+ }
+
+ img_box{
+width:45%;
+height:90%;
+}
+.resize_horizontal{
+width:90%;
+}
+
+
+ blockquote {
+  border-left: 0;
+  text-align: center;
+}
